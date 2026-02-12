@@ -1,0 +1,7 @@
+{
+  "name": "Electro Cars Service - Especialistas en Electricidad Automotriz",
+  "description": "Una aplicación web profesional para el taller Electro Cars Service, que ofrece diagnósticos asistidos por IA, gestión de servicios eléctricos y seguimiento de reparaciones.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
